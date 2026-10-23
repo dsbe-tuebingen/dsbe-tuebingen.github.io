@@ -3,10 +3,11 @@ project:
   output-dir: .
 
 website:
-  title: "DSBE Alumni Meetup"
+  title: "DSBE Forum"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header: custom-head.html
