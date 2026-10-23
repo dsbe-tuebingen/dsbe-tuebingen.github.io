@@ -4,6 +4,7 @@ project:
 
 website:
   title: "DSBE Forum"
+  favicon: images/favicon.ico
 
 format:
   html:
