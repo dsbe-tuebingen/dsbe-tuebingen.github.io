@@ -1,0 +1,48 @@
+---
+title: "DSBE Alumni Meetup '26"
+subtitle: "M.Sc. Data Science in Business & Economics • University of Tübingen"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    mainfont: "Inter, sans-serif"
+    monofont: "DM Mono, monospace"
+    css: styles.css
+---
+
+::: {.hero-section}
+Connecting DSBE cohorts, sharing industry experiences, and welcoming our alumni back to campus.
+
+- **Date:** Thursday, Nov 26, 2026
+- **Doors Open:** 17:30 CET
+- **Location:** University of Tübingen (Room TBA)
+
+<!-- Luma Checkout Button -->
+<a href="https://lu.ma/YOUR_EVENT_SLUG" 
+   class="luma-checkout--button cta-btn" 
+   data-luma-action="checkout" 
+   data-luma-event-id="evt-YOUR_EVENT_ID">
+   Register for Free
+</a>
+:::
+
+## Keynote Presentation
+
+> ### "Driving AI Transformation in Large Enterprises"
+> **Dr. Armin Müller**  
+> *Global Head of Data & AI @ Kaufland*
+
+---
+
+## Schedule
+
+| Time | Agenda Item | Details |
+| :--- | :--- | :--- |
+| **17:30 – 18:00** | Doors Open & Arrival | Grab drinks & pretzels, meet fellow cohorts. |
+| **18:00 – 18:45** | Keynote & Q&A | Talk by Dr. Armin Müller, followed by discussion. |
+| **18:45 – 19:30** | Community Insights | Alumni lightning talks & live survey data. |
+| **20:00 – Late** | Dinner & Pub Crawl | Dinner at a local restaurant (self-pay), drinks in town. |
+
+<!-- Luma Script -->
+```{=html}
+<script id="luma-checkout" src="[https://embed.lu.ma/checkout-button.js](https://embed.lu.ma/checkout-button.js)"></script>
