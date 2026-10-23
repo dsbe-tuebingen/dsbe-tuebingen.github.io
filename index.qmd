@@ -21,7 +21,7 @@ Connecting DSBE cohorts, sharing industry insights, and welcoming our alumni bac
 </a>
 :::
 
-## What to Expect
+## Keynote
 
 The DSBE Forum brings together current students, alumni, and faculty for an evening of exchange, industry perspectives, and community. We are excited to have [Dr. Armin Müller](https://www.linkedin.com/in/dr-armin-müller-97281250/) kick off the event with an opening keynote, followed by an open Q&A and discussion.
 
@@ -29,8 +29,16 @@ The DSBE Forum brings together current students, alumni, and faculty for an even
 > **Dr. Armin Müller**  
 > *Global Head of Data & AI @ Kaufland*
 
-* **Cross-Cohort Exchange:** Connect with former classmates, meet newer DSBE cohorts, and discuss career paths and industry experiences.
-* **Dinner & Drinks:** Wrapping up the evening together at a local Tübingen restaurant (self-pay), followed by drinks in the old town.
+## Timeline
+
+* **17:30 – 18:00** · **Doors Open & Arrival**  
+  Arrive, grab a drink, and catch up with fellow attendees.
+* **18:00 – 19:15** · **Keynote & Open Q&A**  
+  Welcome note, presentation by Dr. Armin Müller, and discussion.
+* **19:15 – 19:45** · **Community Insights & Networking**  
+  Cross-cohort perspectives, community updates, and short break before heading out.
+* **20:00 – Late** · **Dinner & Drinks**  
+  Dinner at a local Tübingen restaurant (self-pay), followed by drinks in the old town.
 
 > **Venue & Details:** The exact lecture hall and restaurant location will be announced closer to the event date. Please RSVP via the registration button above to secure your spot, and check back on this website anytime for the latest updates.
 
@@ -38,8 +46,12 @@ The DSBE Forum brings together current students, alumni, and faculty for an even
 
 ::: {.callout-note appearance="simple"}
 ### Stay Connected
-Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students LinkedIn Group**](https://www.linkedin.com/groups/YOUR_GROUP_ID/) to stay in touch, share job opportunities, and grow our network.
+Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students LinkedIn Group**](https://www.linkedin.com/groups/13184516/) to stay in touch, share job opportunities, and grow our network.
 :::
+
+## Contact
+
+Have questions or ideas about the event? Reach out anytime via [konstantin.holl@student.uni-tuebingen.de](mailto:konstantin.holl@uni-tuebingen.de).
 
 <!-- Luma Script -->
 ```{=html}
