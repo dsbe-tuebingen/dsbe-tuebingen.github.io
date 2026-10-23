@@ -1,13 +1,6 @@
 ---
-title: "DSBE Alumni Meetup '26"
+title: "DSBE Forum '26"
 subtitle: "M.Sc. Data Science in Business & Economics • University of Tübingen"
-format:
-  html:
-    theme: cosmo
-    toc: false
-    mainfont: "Inter, sans-serif"
-    monofont: "DM Mono, monospace"
-    css: styles.css
 ---
 
 ::: {.hero-section}
@@ -18,11 +11,13 @@ Connecting DSBE cohorts, sharing industry experiences, and welcoming our alumni 
 - **Location:** University of Tübingen (Room TBA)
 
 <!-- Luma Checkout Button -->
-<a href="https://lu.ma/YOUR_EVENT_SLUG" 
-   class="luma-checkout--button cta-btn" 
-   data-luma-action="checkout" 
-   data-luma-event-id="evt-YOUR_EVENT_ID">
-   Register for Free
+<a
+  href="https://luma.com/event/evt-ywh7DsJPDNy9EpU"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-ywh7DsJPDNy9EpU"
+>
+  Register for Event
 </a>
 :::
 
@@ -45,4 +40,4 @@ Connecting DSBE cohorts, sharing industry experiences, and welcoming our alumni 
 
 <!-- Luma Script -->
 ```{=html}
-<script id="luma-checkout" src="[https://embed.lu.ma/checkout-button.js](https://embed.lu.ma/checkout-button.js)"></script>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
