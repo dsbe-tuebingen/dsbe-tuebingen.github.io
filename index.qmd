@@ -4,10 +4,10 @@ subtitle: "M.Sc. Data Science in Business & Economics • University of Tübinge
 ---
 
 ::: {.hero-section}
-Connecting DSBE cohorts, sharing industry experiences, and welcoming our alumni back to campus.
+Connecting DSBE cohorts, sharing industry insights, and welcoming our alumni back to campus.
 
-- **Date:** Thursday, Nov 26, 2026
-- **Doors Open:** 17:30 CET
+- **Date:** Thursday, November 26, 2026
+- **Doors Open:** 17:30 CET (Program starts at 18:00)
 - **Location:** University of Tübingen (Room TBA)
 
 <!-- Luma Checkout Button -->
@@ -21,23 +21,26 @@ Connecting DSBE cohorts, sharing industry experiences, and welcoming our alumni 
 </a>
 :::
 
-## Keynote Presentation
+## What to Expect
+
+The DSBE Forum brings together current students, alumni, and faculty for an evening of exchange, industry perspectives, and community. We are excited to have [Dr. Armin Müller](https://www.linkedin.com/in/dr-armin-müller-97281250/) kick off the event with an opening keynote, followed by an open Q&A and discussion.
 
 > ### "Driving AI Transformation in Large Enterprises"
 > **Dr. Armin Müller**  
 > *Global Head of Data & AI @ Kaufland*
 
+* **Cross-Cohort Exchange:** Connect with former classmates, meet newer DSBE cohorts, and discuss career paths and industry experiences.
+* **Dinner & Drinks:** Wrapping up the evening together at a local Tübingen restaurant (self-pay), followed by drinks in the old town.
+
+> **Venue & Details:** The exact lecture hall and restaurant location will be announced closer to the event date. Please RSVP via the registration button above to secure your spot, and check back on this website anytime for the latest updates.
+
 ---
 
-## Schedule
-
-| Time | Agenda Item | Details |
-| :--- | :--- | :--- |
-| **17:30 – 18:00** | Doors Open & Arrival | Grab drinks & pretzels, meet fellow cohorts. |
-| **18:00 – 18:45** | Keynote & Q&A | Talk by Dr. Armin Müller, followed by discussion. |
-| **18:45 – 19:30** | Community Insights | Alumni lightning talks & live survey data. |
-| **20:00 – Late** | Dinner & Pub Crawl | Dinner at a local restaurant (self-pay), drinks in town. |
+::: {.callout-note appearance="simple"}
+### Stay Connected
+Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students LinkedIn Group**](https://www.linkedin.com/groups/YOUR_GROUP_ID/) to stay in touch, share job opportunities, and grow our network.
+:::
 
 <!-- Luma Script -->
 ```{=html}
-<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+<script id="luma-checkout" src="[https://embed.lu.ma/checkout-button.js](https://embed.lu.ma/checkout-button.js)"></script>
