@@ -52,7 +52,7 @@ Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students 
 
 ## Contact
 
-Have questions or ideas about the event? Reach out anytime via [konstantin.holl@student.uni-tuebingen.de](mailto:konstantin.holl@uni-tuebingen.de).
+Have questions or ideas about the event? Reach out anytime via [konstantin.holl@.uni-tuebingen.de](mailto:konstantin.holl@uni-tuebingen.de).
 
 <!-- Luma Script -->
 ```{=html}
