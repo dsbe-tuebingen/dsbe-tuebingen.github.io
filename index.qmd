@@ -22,9 +22,9 @@ Connecting DSBE cohorts, sharing industry insights, and welcoming our alumni bac
 </a>
 :::
 
-## Keynote
+## What to Expect
 
-The DSBE Forum brings together current students, alumni, and faculty for an evening of exchange, industry perspectives, and community. We are excited to have [Dr. Armin Müller](https://www.linkedin.com/in/dr-armin-müller-97281250/) kick off the event with an opening keynote, followed by an open Q&A and discussion.
+The DSBE Forum brings together current students, alumni, and faculty for an evening of exchange, industry perspectives, and community. We are excited to have [**Dr. Armin Müller**](https://www.linkedin.com/in/dr-armin-müller-97281250/) kick off the event with an opening keynote, followed by an open Q&A and discussion.
 
 > ### "Driving AI Transformation in Large Enterprises"
 > **Dr. Armin Müller**  
@@ -49,6 +49,8 @@ The DSBE Forum brings together current students, alumni, and faculty for an even
 ### Stay Connected
 Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students LinkedIn Group**](https://www.linkedin.com/groups/13184516/) to stay in touch, share job opportunities, and grow our network.
 :::
+
+---
 
 ## Contact
 
