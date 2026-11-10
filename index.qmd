@@ -45,6 +45,18 @@ The DSBE Forum brings together current students, alumni, and faculty for an even
 
 ---
 
+::: {.survey-section}
+## Share your DSBE perspective
+
+What did you hope to gain from the DSBE Master's programme, and what has stayed with you since? We invite current students to share their expectations and alumni to reflect on their experiences. Your memories and recommendations will help bring the DSBE community's perspectives into the Forum conversation.
+
+The survey takes about **5–7 minutes**. Taking part is voluntary, and you can skip any question. Please leave out names, employer names, and other identifying details. We'll share a summary of responses at the DSBE Forum.
+
+<a href="https://ww3.unipark.de/uc/dsbe-forum-26/" class="cta-btn">Take the DSBE survey</a>
+:::
+
+---
+
 ::: {.callout-note appearance="simple"}
 ### Stay Connected
 Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students LinkedIn Group**](https://www.linkedin.com/groups/13184516/) to stay in touch, share job opportunities, and grow our network.
@@ -54,8 +66,9 @@ Are you a DSBE student or graduate? Join the official [**DSBE Alumni & Students 
 
 ## Contact
 
-Have questions or ideas about the event? Reach out anytime via [konstantin.holl@.uni-tuebingen.de](mailto:konstantin.holl@uni-tuebingen.de).
+Have questions or ideas about the event? Reach out anytime via [konstantin.holl@uni-tuebingen.de](mailto:konstantin.holl@uni-tuebingen.de).
 
 <!-- Luma Script -->
 ```{=html}
-<script id="luma-checkout" src="[https://embed.lu.ma/checkout-button.js](https://embed.lu.ma/checkout-button.js)"></script>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+```

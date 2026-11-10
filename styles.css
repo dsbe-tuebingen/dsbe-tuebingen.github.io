@@ -81,6 +81,25 @@ h2 {
   padding: 0.3rem 0;
 }
 
+/* --- Community survey invitation --- */
+.survey-section {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: 0 12px 12px 0;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 6px rgba(50, 65, 75, 0.06);
+}
+
+.survey-section h2 {
+  margin-top: 0;
+}
+
+.survey-section .cta-btn {
+  margin-bottom: 0;
+}
+
 /* --- Keynote Box (Blockquote) --- */
 blockquote {
   background: var(--card-bg);
